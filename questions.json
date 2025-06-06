@@ -1,0 +1,1390 @@
+[
+    {
+        "question": "3.1.1. What are entrepreneurs motivated by?",
+        "options": [
+            "Stability and routine",
+            "Social connections and leisure",
+            "Achievement, independence, and the accumulation of wealth",
+            "Avoiding risks and maintaining the status quo/the current state of things"
+        ],
+        "correctAnswer": "Achievement, independence, and the accumulation of wealth"
+    },
+    {
+        "question": "3.1.2. Which of the following best describes a characteristic of entrepreneurs?",
+        "options": [
+            "They are risk-averse and prefer stability.",
+            "They are highly motivated and take risks to achieve goals.",
+            "They focus on maintaining the current state of affairs.",
+            "They typically avoid challenges and complex problems."
+        ],
+        "correctAnswer": "They are highly motivated and take risks to achieve goals."
+    },
+    {
+        "question": "3.1.3. For an entrepreneur, what is a challenge?",
+        "options": [
+            "A problem that requires innovative solutions",
+            "A call to respond to a difficult task and commit to an enterprise",
+            "An obstacle that prevents business growth",
+            "A competitive threat from other companies"
+        ],
+        "correctAnswer": "A call to respond to a difficult task and commit to an enterprise"
+    },
+    {
+        "question": "3.1.4. What are the key abilities of entrepreneurs?",
+        "options": [
+            "To see opportunities, gather resources, and take action",
+            "To make profits, hire employees, and expand globally",
+            "To create products, market them, and sell to customers",
+            "To raise capital, manage teams, and scale operations"
+        ],
+        "correctAnswer": "To see opportunities, gather resources, and take action"
+    },
+    {
+        "question": "3.1.5. What is one key characteristic that distinguishes an entrepreneur from a small business owner?",
+        "options": [
+            "An entrepreneur acts on an existing business model.",
+            "An entrepreneur identifies and acts on a new idea or problem.",
+            "An entrepreneur primarily owns a restaurant.",
+            "An entrepreneur follows a traditional business model."
+        ],
+        "correctAnswer": "An entrepreneur identifies and acts on a new idea or problem."
+    },
+    {
+        "question": "3.1.6. Which statement best summarizes the relationship between a small business owner and an entrepreneur?",
+        "options": [
+            "A small business owner can never be an entrepreneur.",
+            "An entrepreneur always has to start a completely new company.",
+            "Entrepreneurship and small business ownership are completely unrelated.",
+            "A small business owner and an entrepreneur can be the same person if they introduce a new product or service."
+        ],
+        "correctAnswer": "A small business owner and an entrepreneur can be the same person if they introduce a new product or service."
+    },
+    {
+        "question": "3.1.7. Why might someone who prefers to stay in their comfort zone struggle in entrepreneurship?",
+        "options": [
+            "It encourages creativity and innovation.",
+            "It prevents them from facing and overcoming challenges.",
+            "It indicates they are ready for high risks.",
+            "It shows they have all necessary comfort for hard work."
+        ],
+        "correctAnswer": "It prevents them from facing and overcoming challenges."
+    },
+    {
+        "question": "3.1.8. What is the journey of an entrepreneur?",
+        "options": [
+            "Entrepreneurs quickly become successful without much effort.",
+            "Entrepreneurs should only attempt one business venture.",
+            "Failure is not a significant part of the entrepreneurial journey.",
+            "Entrepreneurship requires perseverance through failures and hard work."
+        ],
+        "correctAnswer": "Entrepreneurship requires perseverance through failures and hard work."
+    },
+    {
+        "question": "3.2.1. Which of the following characteristics would indicate that someone should not be an entrepreneur?",
+        "options": [
+            "Willing to work long hours.",
+            "Entrepreneurs are vision-oriented and take moderate risks to achieve high earnings.",
+            "Enjoys finding solutions for everyday problems.",
+            "Prefers staying in their comfort zone."
+        ],
+        "correctAnswer": "Prefers staying in their comfort zone."
+    },
+    {
+        "question": "3.2.2. What is a common reason many entrepreneurs give up or fail?",
+        "options": [
+            "Creativity.",
+            "Lack of funds.",
+            "Satisfied with initial success.",
+            "Too much acknowledgement."
+        ],
+        "correctAnswer": "Lack of funds."
+    },
+    {
+        "question": "3.2.3. What is one approach that startup entrepreneurs use to minimize personal financial risk while developing their venture?",
+        "options": [
+            "Continue their current employment while working on the venture on the side until it generates income.",
+            "Secure a large loan from a bank to fully fund the venture from the start.",
+            "Quit their current employment to focus exclusively on the new venture.",
+            "Rely solely on investments from friends and family to fund the venture."
+        ],
+        "correctAnswer": "Continue their current employment while working on the venture on the side until it generates income."
+    },
+    {
+        "question": "3.2.4. Which of the following statements best describes a characteristic of entrepreneurs?",
+        "options": [
+            "Primary rely on fate or luck to achieve success.",
+            "Are vision-oriented and take moderate risks to achieve high earnings.",
+            "Generally avoid risks and seek stable returns.",
+            "Prefer working alone and avoiding ambiguous situations."
+        ],
+        "correctAnswer": "Are vision-oriented and take moderate risks to achieve high earnings."
+    },
+    {
+        "question": "3.2.5. What is essential for an entrepreneur when facing challenges?",
+        "options": [
+            "Expecting easy solutions for complex problems.",
+            "Avoiding tough issues to maintain productivity.",
+            "Having a willingness to work hard and not expect easy solutions.",
+            "Relying solely on tuition over skill development."
+        ],
+        "correctAnswer": "Having a willingness to work hard and not expect easy solutions."
+    },
+    {
+        "question": "3.2.6. What factors contribute to a growing interest in entrepreneurship? (Select all that apply)",
+        "options": [
+            "Unemployment levels.",
+            "Low job turnover rates.",
+            "Increasing levels of creativity.",
+            "Decreasing rates of discrimination."
+        ],
+        "correctAnswer": ["Unemployment levels.", "Increasing levels of creativity."]
+    },
+    {
+        "question": "3.2.7. An entrepreneur is someone who ... (Select all that apply)",
+        "options": [
+            "Creates a small business based on other existing businesses.",
+            "Creates a business that sells products available via other retailers.",
+            "Creates a business around the idea of solving a problem.",
+            "Is highly creative."
+        ],
+        "correctAnswer": ["Creates a business around the idea of solving a problem.", "Is highly creative."]
+    },
+    {
+        "question": "3.2.8. The acronym SMART for goal setting stands for ...",
+        "options": [
+            "short-term, measurable, accurate, relevant, and timely",
+            "specific, measurable, accurate, relevant, and timely",
+            "specific, measurable, achievable, relevant and timely",
+            "specific, measurable, achievable, results, and time oriented"
+        ],
+        "correctAnswer": "specific, measurable, achievable, relevant and timely"
+    },
+    {
+        "question": "3.2.9. Which of the following is NOT a 'pull' influence that attracts individuals towards small business ownership?",
+        "options": [
+            "Desire for independence",
+            "Desire to exploit an opportunity",
+            "Job dissatisfaction",
+            "Turning a hobby into a business"
+        ],
+        "correctAnswer": "Job dissatisfaction"
+    },
+    {
+        "question": "3.2.10. Which of the following is NOT mentioned as a factor that pushes people into founding a new enterprise?",
+        "options": [
+            "Redundancy",
+            "Idleness",
+            "Unemployment",
+            "Financial surplus"
+        ],
+        "correctAnswer": "Financial surplus"
+    },
+    {
+        "question": "3.2.11. One reason people find entrepreneurship attractive is because",
+        "options": [
+            "Guarantees financial stability",
+            "They have control overall decisions and bear the risk for decisions",
+            "It requires less effort than working for others",
+            "It provides immediate success and recognition"
+        ],
+        "correctAnswer": "They have control overall decisions and bear the risk for decisions"
+    },
+    {
+        "question": "3.2.12. What issue is likely to arise if an entrepreneurial venture has multiple owners?",
+        "options": [
+            "Increased initial investment leading to higher profit margins.",
+            "Disagreement between the owners, potentially limiting the operation",
+            "Absolute certainty of income and financial stability.",
+            "Entrepreneurs will have vast experience leading to high efficiency."
+        ],
+        "correctAnswer": "Disagreement between the owners, potentially limiting the operation"
+    },
+    {
+        "question": "3.2.13. In the early stages of developing an entrepreneurial venture, the entrepreneur might seek funding from which group? (Select all that apply)",
+        "options": [
+            "Venture capitalists",
+            "the local bank",
+            "friends and family",
+            "shark tank"
+        ],
+        "correctAnswer": ["Venture capitalists", "the local bank", "friends and family"]
+    },
+    {
+        "question": "3.3.1. What are the three key abilities of entrepreneurs?",
+        "options": [
+            "To see opportunities, gather resources, and take action.",
+            "To make profits, hire employees, and expand globally.",
+            "To create products, market them, and sell to customers.",
+            "To raise capital, manage teams, and scale operations."
+        ],
+        "correctAnswer": "To see opportunities, gather resources, and take action."
+    },
+    {
+        "question": "3.3.2. What are entrepreneurs motivated by?",
+        "options": [
+            "Stability and routine",
+            "Social connections and leisure",
+            "Achievement, independence, and the accumulation of wealth",
+            "Avoiding risks and maintaining the status quo/the current state of things"
+        ],
+        "correctAnswer": "Achievement, independence, and the accumulation of wealth"
+    },
+    {
+        "question": "3.3.3. What is a common reason many entrepreneurs give up or fail?",
+        "options": [
+            "Lack of creativity",
+            "Lack of funds",
+            "Satisfied with initial success",
+            "Too much acknowledgment"
+        ],
+        "correctAnswer": "Lack of funds"
+    },
+    {
+        "question": "3.3.4. Which of the following is highlighted as a characteristic of someone who should reconsider becoming an entrepreneur?",
+        "options": [
+            "Tending to procrastinate",
+            "Enjoying challenges and taking risks",
+            "Seeking long-term growth and stability",
+            "Being innovative and proactive"
+        ],
+        "correctAnswer": "Tending to procrastinate"
+    },
+    {
+        "question": "3.3.5. What primarily motivates an Achievement Entrepreneur?",
+        "options": [
+            "Customer satisfaction",
+            "Personal and professional fulfillment",
+            "Market demand",
+            "Technological innovation"
+        ],
+        "correctAnswer": "Personal and professional fulfillment"
+    },
+    {
+        "question": "3.3.6. What is the primary focus of a Salesman Entrepreneur?",
+        "options": [
+            "Innovation and technical advancements",
+            "Operational efficiency and management",
+            "Personal accomplishment",
+            "Sales and customer relationships"
+        ],
+        "correctAnswer": "Sales and customer relationships"
+    },
+    {
+        "question": "3.3.7. Which characteristic is typical of a manager type of entrepreneur?",
+        "options": [
+            "Prefers small startups",
+            "Takes calculated risks",
+            "Avoids positions of authority",
+            "Has strong management skills"
+        ],
+        "correctAnswer": "Has strong management skills"
+    },
+    {
+        "question": "3.3.8. What defines an entrepreneurial idea?",
+        "options": [
+            "A problem in the market that is currently unmet.",
+            "A potential solution or concept that an entrepreneur thinks of.",
+            "A commercial framework for implementing a solution.",
+            "A planned scheme for securing funding."
+        ],
+        "correctAnswer": "A potential solution or concept that an entrepreneur thinks of."
+    },
+    {
+        "question": "3.3.9. A local bakery notices a significant increase in demand for gluten-free products and decides to expand its menu to include a range of gluten-free baked goods. This is an example of:",
+        "options": [
+            "Idea",
+            "Opportunity",
+            "Both",
+            "Neither"
+        ],
+        "correctAnswer": "Opportunity"
+    },
+    {
+        "question": "3.4.1. What is the first stage of the entrepreneurial process?",
+        "options": [
+            "Development",
+            "Startup",
+            "Market Entry",
+            "Growth"
+        ],
+        "correctAnswer": "Startup"
+    },
+    {
+        "question": "3.4.2. Which of the following best describes the 'Resourcing' stage?",
+        "options": [
+            "Evaluating and gathering the necessary resources.",
+            "Defining the opportunity and developing the concept.",
+            "Entering the market with a soft launch.",
+            "Monitoring growth and making improvements."
+        ],
+        "correctAnswer": "Evaluating and gathering the necessary resources."
+    },
+    {
+        "question": "3.4.3. What is a 'soft launch'?",
+        "options": [
+            "A full-scale market entry",
+            "A limited market entry to test the business",
+            "The final stage before exiting the venture",
+            "The development of a business model"
+        ],
+        "correctAnswer": "A limited market entry to test the business"
+    },
+    {
+        "question": "3.4.4. The 'Harvest' stage in an entrepreneurial journey signifies:",
+        "options": [
+            "Developing a new business idea",
+            "Gathering resources for business growth",
+            "Entering a new market",
+            "Harvesting returns on investment and planning for exit"
+        ],
+        "correctAnswer": "Harvesting returns on investment and planning for exit"
+    },
+    {
+        "question": "3.4.5. An entrepreneurial mindset is described as a combination of:",
+        "options": [
+            "Skillset and mindset",
+            "Vision and strategy",
+            "Knowledge and experience",
+            "Passion and resources"
+        ],
+        "correctAnswer": "Skillset and mindset"
+    },
+    {
+        "question": "3.4.6. Why is mentorship considered critical for entrepreneurs?",
+        "options": [
+            "It is mandatory in all industries",
+            "Mentorship provides assurance and valuable networking opportunities",
+            "It guarantees immediate success",
+            "It replaces the need for a co-founder"
+        ],
+        "correctAnswer": "Mentorship provides assurance and valuable networking opportunities"
+    },
+    {
+        "question": "3.4.7. An example of leveraging technology to skip middlemen is:",
+        "options": [
+            "Launching a franchise",
+            "Renting an office space",
+            "Using a website for travel bookings",
+            "Hiring new employees"
+        ],
+        "correctAnswer": "Using a website for travel bookings"
+    },
+    {
+        "question": "3.4.8. What is the main advantage of purchasing an existing business?",
+        "options": [
+            "Immediate financial gains",
+            "Established historical financial data and managed decisions",
+            "Lower initial investment",
+            "No need for market research"
+        ],
+        "correctAnswer": "Established historical financial data and managed decisions"
+    },
+    {
+        "question": "3.4.9. What is a significant benefit of observing social dialogue for entrepreneurs?",
+        "options": [
+            "It leads to immediate profit",
+            "It provides insights into customer needs and market gaps",
+            "It eliminates the need for further market research",
+            "It ensures a high rate of business failure"
+        ],
+        "correctAnswer": "It provides insights into customer needs and market gaps"
+    },
+    {
+        "question": "3.4.10. What should be a key consideration in the 'Solution Assessment' phase?",
+        "options": [
+            "The uniqueness and protectability of the solution",
+            "The overall cost of the solution",
+            "The solution's ability to be easily replicated",
+            "The size of the startup team"
+        ],
+        "correctAnswer": "The uniqueness and protectability of the solution"
+    },
+    {
+        "question": "3.4.11. Why is it important to conduct real-world validation before launching a startup idea?",
+        "options": [
+            "To secure immediate funding",
+            "To avoid marketing efforts",
+            "To ensure the idea aligns with market needs and demands",
+            "To guarantee a perfect product launch"
+        ],
+        "correctAnswer": "To ensure the idea aligns with market needs and demands"
+    },
+    {
+        "question": "3.5.1. Person who works within an organization and having entrepreneurial capabilities is:",
+        "options": [
+            "entrepreneur",
+            "manager",
+            "intrapreneur",
+            "chief executive"
+        ],
+        "correctAnswer": "intrapreneur"
+    },
+    {
+        "question": "3.5.2. Which could provide an individual with the motivation to start a new business venture? (multiple selections)",
+        "options": [
+            "Desire for independence",
+            "Exploit an opportunity",
+            "Financial Incentive",
+            "Being without a job"
+        ],
+        "correctAnswer": ["Desire for independence", "Exploit an opportunity", "Financial Incentive"]
+    },
+    {
+        "question": "3.5.3. A business arrangement where one party allows another party to use a business name and sell its products or services is known as __.",
+        "options": [
+            "An owner-manager business.",
+            "A franchise",
+            "A limited company",
+            "A cooperative"
+        ],
+        "correctAnswer": "A franchise"
+    },
+    {
+        "question": "3.5.4. “How might we find a way to make use of DVDs and other physical media as users adopt streaming services for films and television over time?”",
+        "options": [
+            "statement starter",
+            "open innovation",
+            "design thinking",
+            "brainstorming"
+        ],
+        "correctAnswer": "design thinking"
+    },
+    {
+        "question": "3.5.5. DICEE is a model for ____",
+        "options": [
+            "creativity in practice",
+            "innovative products",
+            "inventions",
+            "building creative teams"
+        ],
+        "correctAnswer": "innovative products"
+    },
+    {
+        "question": "3.5.6. Innovation includes (multiple selections)",
+        "options": [
+            "Open a new market",
+            "Present a new product",
+            "Introduce a new service",
+            "Changes of existing products"
+        ],
+        "correctAnswer": ["Open a new market", "Present a new product", "Introduce a new service", "Changes of existing products"]
+    },
+    {
+        "question": "3.5.7. ____ is thinking strategically, often to create human-centered products.",
+        "options": [
+            "Innovation",
+            "Invention",
+            "Design thinking",
+            "Creativity"
+        ],
+        "correctAnswer": "Design thinking"
+    },
+    {
+        "question": "3.5.8. In the Six Hats exercise, new ideas are the purview of the ____.",
+        "options": [
+            "Black Hat",
+            "Blue Hat",
+            "Green Hat",
+            "Red Hat"
+        ],
+        "correctAnswer": "Green Hat"
+    },
+    {
+        "question": "3.6.1. Which one is not correct for the term 'Marketing'?",
+        "options": [
+            "Identify consumers and convert them into buyers",
+            "It is all about promotion",
+            "Marketing lays the foundation for how a company reaches and serves its target customers",
+            "Entrepreneur needs to understand marketing"
+        ],
+        "correctAnswer": "It is all about promotion"
+    },
+    {
+        "question": "3.6.2. Why must the marketers monitor the competitor's activities?",
+        "options": [
+            "The competitor may be violating the law to gain an advantage",
+            "The competitor may threaten the monopoly position of the company",
+            "New offerings of a competitor may need alterations in one or more components of the company's marketing mix",
+            "The competitor may destroy the organization"
+        ],
+        "correctAnswer": "New offerings of a competitor may need alterations in one or more components of the company's marketing mix"
+    },
+    {
+        "question": "3.6.3. In today's time marketing must be understood and developed as?",
+        "options": [
+            "Pushing for higher sales and profits",
+            "Creating innovative products",
+            "Getting the first mover’s advantage",
+            "Creating value for the customers"
+        ],
+        "correctAnswer": "Creating value for the customers"
+    },
+    {
+        "question": "3.6.4. Which of the following best describes goods in the context of products?",
+        "options": [
+            "Intangible items that can't be physically touched",
+            "Services provided by experts",
+            "Tangible products that can be touched, smelled, heard, and seen",
+            "Digital products only"
+        ],
+        "correctAnswer": "Tangible products that can be touched, smelled, heard, and seen"
+    },
+    {
+        "question": "3.6.5. What is about how the offering's benefits and features are communicated to the potential buyer?",
+        "options": [
+            "product",
+            "place",
+            "promotion",
+            "price"
+        ],
+        "correctAnswer": "promotion"
+    },
+    {
+        "question": "3.6.6. What motivates today's customers to buy a product?",
+        "options": [
+            "The product's availability",
+            "Discounts offered on the product",
+            "The product’s value to the customer",
+            "The brand name"
+        ],
+        "correctAnswer": "The product’s value to the customer"
+    },
+    {
+        "question": "3.6.7. To achieve market expansion a company must?",
+        "options": [
+            "Use advertising campaigns more effectively",
+            "Use distribution channels more effectively",
+            "Price their products more strategically",
+            "All of the above"
+        ],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "3.7.1. What is cost-led pricing?",
+        "options": [
+            "The method of pricing a product based on competitor prices",
+            "The method of pricing a product based on customer demand",
+            "The method of pricing a product by adding a profit margin to the cost of making the product",
+            "The method of pricing a product by considering the brand value"
+        ],
+        "correctAnswer": "The method of pricing a product by adding a profit margin to the cost of making the product"
+    },
+    {
+        "question": "3.7.2. Why is cost-led pricing helpful for start-ups?",
+        "options": [
+            "It helps in competing with established brands",
+            "It requires less information about the target market",
+            "It ensures maximum profit",
+            "It ensures maximum profit"
+        ],
+        "correctAnswer": "It requires less information about the target market"
+    },
+    {
+        "question": "3.7.3. What is customer-led pricing?",
+        "options": [
+            "Pricing determined by the cost of production",
+            "Pricing led by the consumer's willingness to pay",
+            "Pricing set by competitors",
+            "Pricing based on the company's profit margin"
+        ],
+        "correctAnswer": "Pricing led by the consumer's willingness to pay"
+    },
+    {
+        "question": "3.7.4. What is the primary advantage of customer-led pricing?",
+        "options": [
+            "It allows for higher profit margins",
+            "It avoids the need for market research",
+            "It ensures that products are priced at what customers are willing to pay",
+            "It simplifies the pricing strategy for the company"
+        ],
+        "correctAnswer": "It ensures that products are priced at what customers are willing to pay"
+    },
+    {
+        "question": "3.7.5. What is 'bundling' in the context of marketing?",
+        "options": [
+            "A strategy where customers pay more for buying products separately",
+            "Offering discounts only for individual products",
+            "A discount price set for a bundle of products to encourage bulk purchases",
+            "Providing only one type of product to customers"
+        ],
+        "correctAnswer": "A discount price set for a bundle of products to encourage bulk purchases"
+    },
+    {
+        "question": "3.7.6. What is the primary purpose of implementing a decoy pricing strategy?",
+        "options": [
+            "To declear old inventory",
+            "To influence customers to choose a more profitable option",
+            "To reduce overall prices",
+            "To compete with other businesses"
+        ],
+        "correctAnswer": "To influence customers to choose a more profitable option"
+    },
+    {
+        "question": "3.7.7. What does 'Place' refer to in the context of marketing?",
+        "options": [
+            "The location of the company's headquarters",
+            "The cultural background of the target market",
+            "The aesthetic design of the product",
+            "The channels or locations where customers can purchase products"
+        ],
+        "correctAnswer": "The channels or locations where customers can purchase products"
+    },
+    {
+        "question": "3.7.8. Which type of distribution channel allows businesses to sell directly to consumers without intermediaries?",
+        "options": [
+            "Indirect channels",
+            "Direct channels",
+            "Wholesale channels",
+            "Wholesale channels"
+        ],
+        "correctAnswer": "Direct channels"
+    },
+    {
+        "question": "3.7.9. Why are the people who interact with customers especially important in a service-oriented business?",
+        "options": [
+            "They create advertising campaigns.",
+            "They manage the company's finances.",
+            "They are the face of the brand and a direct link between the company and the customer.",
+            "They develop new products."
+        ],
+        "correctAnswer": "They are the face of the brand and a direct link between the company and the customer."
+    },
+    {
+        "question": "3.7.10. Why is a strong first impression crucial for new businesses?",
+        "options": [
+            "It ensures customer loyalty.",
+            "It is costly to achieve",
+            "It influences multiple subsequent visits",
+            "Customers remember the first impression most"
+        ],
+        "correctAnswer": "Customers remember the first impression most"
+    },
+    {
+        "question": "3.7.11. What does 'Process' represent in the context of providing a service to the customer?",
+        "options": [
+            "The pricing strategy",
+            "The set of procedures from start to end",
+            "The physical environment design",
+            "The customer reviews"
+        ],
+        "correctAnswer": "The set of procedures from start to end"
+    },
+    {
+        "question": "3.7.12. Which of the following actions can be part of the 'Process'?",
+        "options": [
+            "Setting product prices",
+            "Designing physical store layouts",
+            "Checking availability and booking appointments",
+            "Hiring employees"
+        ],
+        "correctAnswer": "Checking availability and booking appointments"
+    },
+    {
+        "question": "3.8.1. What is the primary goal of market research?",
+        "options": [
+            "To determine the readiness of an entrepreneur",
+            "To understand customer needs and wants",
+            "To develop marketing strategies",
+            "To design new products"
+        ],
+        "correctAnswer": "To understand customer needs and wants"
+    },
+    {
+        "question": "3.8.2. Which of the following best describes Primary Market Research?",
+        "options": [
+            "Research conducted using existing data",
+            "Data analysis using company financial reports",
+            "Original research conducted directly with respondents.",
+            "Information gathered from published journals and articles"
+        ],
+        "correctAnswer": "Original research conducted directly with respondents."
+    },
+    {
+        "question": "3.8.3. Which of the following is an advantage of Secondary Market Research?",
+        "options": [
+            "Highly tailored to specific research needs",
+            "Provides up-to-date, original data",
+            "Access to a wide range of existing information quickly",
+            "Allows for direct customer interaction"
+        ],
+        "correctAnswer": "Access to a wide range of existing information quickly"
+    },
+    {
+        "question": "3.8.4. Why might a company choose Primary Market Research over Secondary Market Research?",
+        "options": [
+            "To save time and costs associated with research",
+            "To obtain specific and current data relevant to their needs.",
+            "To use information that has already been collected and analysed",
+            "To avoid communicating directly with respondents"
+        ],
+        "correctAnswer": "To obtain specific and current data relevant to their needs."
+    },
+    {
+        "question": "3.8.5. What does STP stand for in market research?",
+        "options": [
+            "Sales, Trends, and Planning",
+            "Segmenting, Targeting, and Positioning",
+            "Strategy, Tactics, and Pricing",
+            "Supply, Trade, and Production"
+        ],
+        "correctAnswer": "Segmenting, Targeting, and Positioning"
+    },
+    {
+        "question": "3.8.6. What is a value proposition?",
+        "options": [
+            "A list of product features",
+            "The total cost of production",
+            "A sales strategy",
+            "A statement of how you want the customer to perceive your company, good, or service"
+        ],
+        "correctAnswer": "A statement of how you want the customer to perceive your company, good, or service"
+    },
+    {
+        "question": "3.8.7. What is the primary purpose of a marketing plan?",
+        "options": [
+            "To describe the financial goals of a company",
+            "To detail the company's product development process",
+            "To describe how a company will reach consumers and convert them into paying customers",
+            "To outline the company's internal policies"
+        ],
+        "correctAnswer": "To describe how a company will reach consumers and convert them into paying customers"
+    },
+    {
+        "question": "3.8.8. What is an advantage for start-ups regarding customer service?",
+        "options": [
+            "They can offer lower prices than bigger companies",
+            "They can focus on a few customers at a time in a more personal manner",
+            "They have more employees to handle customer service",
+            "They need less time to counteract negative reviews"
+        ],
+        "correctAnswer": "They can focus on a few customers at a time in a more personal manner"
+    },
+    {
+        "question": "3.9.1. What is the primary purpose of financing in entrepreneurship?",
+        "options": [
+            "To pay off debts",
+            "To launch a new business",
+            "To purchase raw materials",
+            "To advertise products"
+        ],
+        "correctAnswer": "To launch a new business"
+    },
+    {
+        "question": "3.9.2. Which of the following best describes the role of accounting?",
+        "options": [
+            "Marketing products to customers",
+            "Summarising, managing, and communicating a business’s financial operations and performance",
+            "Hiring and training employees",
+            "Designing new business logos"
+        ],
+        "correctAnswer": "Summarising, managing, and communicating a business’s financial operations and performance"
+    },
+    {
+        "question": "3.9.3. Why is accounting considered a common language for business owners?",
+        "options": [
+            "It allows them to create marketing strategies",
+            "It enables them to communicate without using words",
+            "It provides legal advice",
+            "It allows them to understand and make decisions about their venture based on financial data"
+        ],
+        "correctAnswer": "It allows them to understand and make decisions about their venture based on financial data"
+    },
+    {
+        "question": "3.9.4. At the seed stage, typically:",
+        "options": [
+            "Ventures are generating high revenue.",
+            "Products are fully saleable.",
+            "Founders haven’t yet converted their idea into a saleable product.",
+            "Companies are over 10 years old."
+        ],
+        "correctAnswer": "Founders haven’t yet converted their idea into a saleable product."
+    },
+    {
+        "question": "3.9.5. What usually constitutes the initial funding of a seed-stage company?",
+        "options": [
+            "Personal savings of the founder and small investments from family members.",
+            "Bank loans.",
+            "Government grants.",
+            "Revenue from sales."
+        ],
+        "correctAnswer": "Personal savings of the founder and small investments from family members."
+    },
+    {
+        "question": "3.9.6. What does an early stage company begin with?",
+        "options": [
+            "Customer acquisitions",
+            "Product development",
+            "Large scale manufacturing",
+            "Diversification of products"
+        ],
+        "correctAnswer": "Product development"
+    },
+    {
+        "question": "3.9.7. Who are likely to become investors at the early stage of a company?",
+        "options": [
+            "Only the company's founders",
+            "Government organisations",
+            "Retail customers",
+            "Outsider investors including venture capitalists"
+        ],
+        "correctAnswer": "Outsider investors including venture capitalists"
+    },
+    {
+        "question": "3.9.8. Which statement accurately describes a key difference in operation between venture capitalists and angel investors?",
+        "options": [
+            "Venture capitalists often invest part-time, while angel investors work full-time in investment.",
+            "Venture capitalists typically operate as a full-time active investment business, while angel investors may be retired executives or business owners.",
+            "Venture capitalists only invest in technology companies, while angel investors invest across all industries.",
+            "Angel investors require 100% equity in the companies they invest in, while venture capitalists do not require equity."
+        ],
+        "correctAnswer": "Venture capitalists typically operate as a full-time active investment business, while angel investors may be retired executives or business owners."
+    },
+    {
+        "question": "3.9.9. What is a key characteristic of mature stage companies?",
+        "options": [
+            "They rely heavily on outside investment to maintain operations.",
+            "They are self-sufficient with little to no need for outside investment.",
+            "They have not yet achieved commercial sales.",
+            "They are still developing their business plan."
+        ],
+        "correctAnswer": "They are self-sufficient with little to no need for outside investment."
+    },
+    {
+        "question": "3.9.10. Which of the following does NOT represent ownership in the company in debt financing?",
+        "options": [
+            "Lender does not own stake in company",
+            "Requires early and regular cash outflow",
+            "Lender owns stake in company",
+            "No immediate cash outflow"
+        ],
+        "correctAnswer": "Lender does not own stake in company"
+    },
+    {
+        "question": "3.9.11. What is equity financing?",
+        "options": [
+            "Financing provided in exchange for part ownership in a business.",
+            "A type of loan that must be repaid with interest.",
+            "Government grant for business expansion.",
+            "Only available to family members."
+        ],
+        "correctAnswer": "Financing provided in exchange for part ownership in a business."
+    },
+    {
+        "question": "3.9.12. What does 'working capital' refer to in a business context?",
+        "options": [
+            "Long-term investments in the business",
+            "The funds available for daily operations",
+            "The total value of a business's fixed assets",
+            "The value of collateral offered for a loan"
+        ],
+        "correctAnswer": "The funds available for daily operations"
+    },
+    {
+        "question": "3.9.13. What implication does tax-exempt status have for charitable organizations?",
+        "options": [
+            "They are taxed heavily",
+            "They pay the same taxes as for-profit businesses",
+            "They must reinvest all profits back into the organization",
+            "Profits from operations are typically not subject to taxes"
+        ],
+        "correctAnswer": "Profits from operations are typically not subject to taxes"
+    },
+    {
+        "question": "3.9.14. What is a mentioned advantage of crowdfunding for business?",
+        "options": [
+            "It prevents any financial risks for the developers.",
+            "It guarantees long-term profits for the business.",
+            "It eliminates the need for marketing efforts.",
+            "It provides upfront cash to launch the project."
+        ],
+        "correctAnswer": "It provides upfront cash to launch the project."
+    },
+    {
+        "question": "3.10.1. What is a liability in the context of business accounting?",
+        "options": [
+            "It is the equipment and supplies a business owns.",
+            "The owner’s claim on the assets of the business.",
+            "A debt that the business has incurred and needs to repay.",
+            "The total worth of the business after debts are repaid."
+        ],
+        "correctAnswer": "A debt that the business has incurred and needs to repay."
+    },
+    {
+        "question": "3.10.2. Which term describes the owner’s claim on the assets of the business?",
+        "options": [
+            "Liability",
+            "Equity",
+            "Asset",
+            "Revenue"
+        ],
+        "correctAnswer": "Equity"
+    },
+    {
+        "question": "3.10.3. What is the primary purpose of a balance sheet for a potential investor?",
+        "options": [
+            "To provide detailed company policies",
+            "To summarize company ownership",
+            "To display stock market performance",
+            "To give a quick summary of what the company owns and owes"
+        ],
+        "correctAnswer": "To give a quick summary of what the company owns and owes"
+    },
+    {
+        "question": "3.10.4. A company has total revenue of £150,000 and total expenses of £120,000. What is the net income?",
+        "options": [
+            "£30,000",
+            "£150,000",
+            "£120,000",
+            "£270,000"
+        ],
+        "correctAnswer": "£30,000"
+    },
+    {
+        "question": "3.10.5. If a business generates £200,000 in sales and incurs £50,000 in cost of goods sold, and £70,000 in operating expenses, what is the net income?",
+        "options": [
+            "£200,000",
+            "£130,000",
+            "£120,000",
+            "£80,000"
+        ],
+        "correctAnswer": "£80,000"
+    },
+    {
+        "question": "3.10.6. Accounts payable is an account that",
+        "options": [
+            "covers many different people buy products on credit",
+            "shows financial obligations of a company related to the purchase of goods and services",
+            "describes debt owed by a company",
+            "contents financial obligations owed by a company"
+        ],
+        "correctAnswer": "shows financial obligations of a company related to the purchase of goods and services"
+    },
+    {
+        "question": "3.10.7. Where would you find information about the cash inflows and outflows from operating, investing, and financing activities?",
+        "options": [
+            "Balance Sheet",
+            "Income Statement",
+            "Cash Flow Statement",
+            "Statement of Retained Earnings"
+        ],
+        "correctAnswer": "Cash Flow Statement"
+    },
+    {
+        "question": "3.10.8. The formula for calculating gross profit is:",
+        "options": [
+            "Net profit + sales",
+            "Sales – expenses",
+            "Sales – cost of goods sold",
+            "Cost of goods sold - sales"
+        ],
+        "correctAnswer": "Sales – cost of goods sold"
+    },
+    {
+        "question": "3.10.9. Gross profit: £36,000, Revenue: £120,000. What is gross profit percentage for the year ended?",
+        "options": [
+            "3%",
+            "30%",
+            "2.5%",
+            "7%"
+        ],
+        "correctAnswer": "30%"
+    },
+    {
+        "question": "3.10.10. Revenue: £210,000, expenses: £115,500. What is gross profit percentage for the year ended?",
+        "options": [
+            "5.5%",
+            "55%",
+            "4.5%",
+            "45%"
+        ],
+        "correctAnswer": "45%"
+    },
+    {
+        "question": "3.10.11. What is the contribution margin ratio if the selling price is £25 and the variable cost is £10?",
+        "options": [
+            "30%",
+            "40%",
+            "50%",
+            "60%"
+        ],
+        "correctAnswer": "60%"
+    },
+    {
+        "question": "3.10.12. Which of the following best describes the purpose of a projection?",
+        "options": [
+            "To estimate the level of future payments and costs",
+            "To identify new product markets",
+            "To set employee salaries",
+            "To create marketing content"
+        ],
+        "correctAnswer": "To estimate the level of future payments and costs"
+    },
+    {
+        "question": "3.10.13. How is the annual run rate calculated if a pizzeria generates £10,000 per month in sales?",
+        "options": [
+            "£100,000",
+            "£110,000",
+            "£120,000",
+            "£130,000"
+        ],
+        "correctAnswer": "£120,000"
+    },
+    {
+        "question": "3.10.14. A company’s monthly expenses are £12,000 and its income is £8,000. What is the company’s burn rate?",
+        "options": [
+            "£2,000",
+            "£3,000",
+            "£4,000",
+            "£5,000"
+        ],
+        "correctAnswer": "£4,000"
+    },
+    {
+        "question": "3.10.15. What is the break-even point?",
+        "options": [
+            "The level of operations where revenue covers all costs",
+            "The point where total revenue equals total variable cost",
+            "The point where fixed costs are zero",
+            "The maximum profit point"
+        ],
+        "correctAnswer": "The level of operations where revenue covers all costs"
+    },
+    {
+        "question": "3.10.16. If the selling price of a product is £15 and the variable cost is £5, what is the contribution margin?",
+        "options": [
+            "£5",
+            "£10",
+            "£15",
+            "£20"
+        ],
+        "correctAnswer": "£10"
+    },
+    {
+        "question": "3.10.17. What are fixed costs?",
+        "options": [
+            "Costs that vary with sales volume",
+            "Costs that remain constant regardless of sales volume",
+            "Costs that increase with production",
+            "Costs that decrease with higher sales"
+        ],
+        "correctAnswer": "Costs that remain constant regardless of sales volume"
+    },
+    {
+        "question": "3.11.1. How many building blocks are there in the Business Model Canvas?",
+        "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "correctAnswer": "9"
+    },
+    {
+        "question": "3.11.2. Select the item that does not belong to the business model canvas.",
+        "options": [
+            "revenue streams",
+            "market size",
+            "customer segments",
+            "value proposition"
+        ],
+        "correctAnswer": "market size"
+    },
+    {
+        "question": "3.11.3. The medium through which an organization provides its value proposition to its customer segment is known as:",
+        "options": [
+            "Customer relationships",
+            "Customer segments",
+            "Channel",
+            "Key resources"
+        ],
+        "correctAnswer": "Channel"
+    },
+    {
+        "question": "3.11.4. These are all types of revenue streams, EXCEPT:",
+        "options": [
+            "Asset sale",
+            "Value",
+            "Renting",
+            "Usage fee"
+        ],
+        "correctAnswer": "Value"
+    },
+    {
+        "question": "3.11.5. The network of suppliers and partners who complement each other in helping the company create its value proposition are called:",
+        "options": [
+            "Customer segments",
+            "Key resources",
+            "Key partners",
+            "None of the options"
+        ],
+        "correctAnswer": "Key partners"
+    },
+    {
+        "question": "3.11.6. The online marketplace website goes in what section of the Business Model Canvas?",
+        "options": [
+            "Channels",
+            "Customer Relationships",
+            "Customer Segments",
+            "Revenue"
+        ],
+        "correctAnswer": "Channels"
+    },
+    {
+        "question": "3.11.7. Which block in the Business Model Canvas focuses on the different groups of people or organizations an enterprise aims to reach and serve?",
+        "options": [
+            "Key Partners",
+            "Customer Relationships",
+            "Customer Segments",
+            "Channels"
+        ],
+        "correctAnswer": "Customer Segments"
+    },
+    {
+        "question": "3.11.8. What are key metrics?",
+        "options": [
+            "Numbers",
+            "A measuring tape",
+            "Goals that determine the success of your business",
+            "Accuracy of the business tasks"
+        ],
+        "correctAnswer": "Goals that determine the success of your business"
+    },
+    {
+        "question": "3.11.9. Which of the following is not true about Target Market?",
+        "options": [
+            "Involve determining who are the customers the business wishes to serve",
+            "Can be individuals, households, business organizations local as well as international and government organizations",
+            "Participate as representative in Feasibility Study",
+            "The group of customers with needs and wants that can be satisfied by the business through the supply of product/service."
+        ],
+        "correctAnswer": "Participate as representative in Feasibility Study"
+    },
+    {
+        "question": "3.11.10. What is the purpose of a feasibility study for starting a new venture?",
+        "options": [
+            "Exploring for potential customers",
+            "To understand if there are any barriers to success",
+            "Estimate sales",
+            "Tests the viability of an idea"
+        ],
+        "correctAnswer": "Tests the viability of an idea"
+    },
+    {
+        "question": "3.11.11. Which of the following is not the purpose of Feasibility Study?",
+        "options": [
+            "Provide quality information for decision making",
+            "Specify business alternatives",
+            "Give focus to the project and outline alternatives",
+            "Establish market trends"
+        ],
+        "correctAnswer": "Establish market trends"
+    },
+    {
+        "question": "3.11.12. The content of the business plan typically includes the main following sections",
+        "options": [
+            "Executive summary",
+            "Marketing plan",
+            "Business analysis",
+            "Management plan"
+        ],
+        "correctAnswer": "Executive summary"
+    },
+    {
+        "question": "3.11.13. Which one of the following is not an example of a content of a business plan",
+        "options": [
+            "Marketing mix",
+            "Forecast revenue, cost and profit",
+            "Target research",
+            "Sources of finance"
+        ],
+        "correctAnswer": "Target research"
+    },
+    {
+        "question": "3.11.14. The Industry Analysis and Market Strategies section of a business plan should contain",
+        "options": [
+            "The size of each market segment.",
+            "Business strategy",
+            "The key characteristics of buyers in each business segment.",
+            "All above"
+        ],
+        "correctAnswer": "All above"
+    },
+    {
+        "question": "3.11.15. ____ describes the industry, product, strategic direction.",
+        "options": [
+            "Executive Summary",
+            "Business Description",
+            "Industry Analysis",
+            "Marketing Plan"
+        ],
+        "correctAnswer": "Business Description"
+    },
+    {
+        "question": "3.11.16. Which one of the following statements is not a true statement about a business plan?",
+        "options": [
+            "It can reduce the chances of business failure",
+            "It includes financial forecasts",
+            "It can hinder the achievement of business aims and objectives",
+            "It identifies the business’s target market(s)"
+        ],
+        "correctAnswer": "It can hinder the achievement of business aims and objectives"
+    },
+    {
+        "question": "3.11.17. What are the advantages of creating a business plan?",
+        "options": [
+            "Allows them to accomplish their desired task",
+            "It allows the entrepreneur to focus on what they want to accomplish",
+            "Allows the process they will take to do it become simple and easy",
+            "All of the above"
+        ],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "question": "3.11.18. The preparation of a business plan is optional for some small businesses.",
+        "options": [
+            "true",
+            "false"
+        ],
+        "correctAnswer": "true"
+    },
+    {
+        "question": "3.12.1. Product improvement could include all of the following EXCEPT",
+        "options": [
+            "Changing its size",
+            "Updating the design",
+            "Increasing its quality",
+            "Increasing the product’s price"
+        ],
+        "correctAnswer": "Increasing the product’s price"
+    },
+    {
+        "question": "3.12.2. Which of the following is a benefit of product improvement?",
+        "options": [
+            "Mispositioning the product",
+            "Improving performance, quality, and cost of the product",
+            "Losing investment",
+            "Dealing with more customers"
+        ],
+        "correctAnswer": "Improving performance, quality, and cost of the product"
+    },
+    {
+        "question": "3.12.3. Market penetration primarily focuses on:",
+        "options": [
+            "Entering new geographical markets",
+            "Creating new products from scratch",
+            "Selling more to current customers",
+            "Reducing production costs significantly"
+        ],
+        "correctAnswer": "Selling more to current customers"
+    },
+    {
+        "question": "3.12.4. What is a disadvantage of new distribution channels?",
+        "options": [
+            "More channels to keep track of and manage",
+            "Cannibalization of existing products",
+            "Mispositioning the product",
+            "Fails to deliver a benefit"
+        ],
+        "correctAnswer": "More channels to keep track of and manage"
+    },
+    {
+        "question": "3.12.5. Which strategy involves extending a product line to cater to different customer needs and budgets?",
+        "options": [
+            "Adding New Markets",
+            "Born Global Companies",
+            "Marketing Diversification",
+            "Product Line Extension"
+        ],
+        "correctAnswer": "Product Line Extension"
+    },
+    {
+        "question": "3.12.6. What is a potential issue with product line extension?",
+        "options": [
+            "Losing project and breaking up",
+            "Dealing with more customers",
+            "Cannibalization of existing products",
+            "Mispositioning the product"
+        ],
+        "correctAnswer": "Cannibalization of existing products"
+    },
+    {
+        "question": "3.12.7. What is licensing in business terms?",
+        "options": [
+            "A contract to sell goods directly to consumers.",
+            "A contract in which one enterprise gives permission to another entity to manufacture and sell its products for a royalty.",
+            "A method of acquiring company shares.",
+            "A strategy to reduce product prices."
+        ],
+        "correctAnswer": "A contract in which one enterprise gives permission to another entity to manufacture and sell its products for a royalty."
+    },
+    {
+        "question": "3.12.8. Franchising allows the business (franchisor) to:",
+        "options": [
+            "Reduce its operational costs.",
+            "Hire more employees.",
+            "Increase its production line.",
+            "Share its business model to expand the business through various distributors (franchisees) for a fee."
+        ],
+        "correctAnswer": "Share its business model to expand the business through various distributors (franchisees) for a fee."
+    },
+    {
+        "question": "3.12.9. What is one of the primary goals of mergers and acquisitions?",
+        "options": [
+            "To avoid sharing technology",
+            "To reduce risk by diversifying portfolios",
+            "To keep both companies’ assets separate",
+            "To avoid increasing access to capital"
+        ],
+        "correctAnswer": "To reduce risk by diversifying portfolios"
+    },
+    {
+        "question": "3.12.10. What is a joint venture?",
+        "options": [
+            "The creation of a new business by a single enterprise.",
+            "The creation of a new business where two enterprises share expenses and profits.",
+            "The merging of several companies into one entity.",
+            "An agreement to share technology and resources without forming a new entity."
+        ],
+        "correctAnswer": "The creation of a new business where two enterprises share expenses and profits."
+    },
+    {
+        "question": "3.12.11. How does a joint venture reduce risk?",
+        "options": [
+            "By combining boards of directors",
+            "By not creating a new entity",
+            "By avoiding direct investment in capital equipment",
+            "By acquiring a majority stake in another company"
+        ],
+        "correctAnswer": "By avoiding direct investment in capital equipment"
+    },
+    {
+        "question": "3.12.12. What is a strategic alliance?",
+        "options": [
+            "An arrangement for pooling resources for a specific project while remaining independent.",
+            "A merger between two companies to form a new business.",
+            "An acquisition where one company takes over another.",
+            "The creation of a common market for efficient resource sharing."
+        ],
+        "correctAnswer": "An arrangement for pooling resources for a specific project while remaining independent."
+    },
+    {
+        "question": "3.12.13. Why might companies choose a strategic alliance over a joint venture?",
+        "options": [
+            "To share profits and expenses",
+            "To remain independent while pooling resources for a project",
+            "To diversify their portfolios through acquisitions",
+            "To create a new business entity for a project"
+        ],
+        "correctAnswer": "To remain independent while pooling resources for a project"
+    },
+    {
+        "question": "3.12.14. What distinguishes a strategic alliance from a joint venture?",
+        "options": [
+            "Strategic alliances involve creating a new entity",
+            "Strategic alliances combine boards of directors",
+            "Strategic alliances do not create a new entity, and both companies remain independent",
+            "Strategic alliances involve acquiring a majority stake in the other company"
+        ],
+        "correctAnswer": "Strategic alliances do not create a new entity, and both companies remain independent"
+    }
+]

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ITCSIU22194 - Ha Minh Tri - Entrepreneurship - Midterm Quiz</title>
+    <!-- <link rel="shortcut icon" href="./images/iu_logo_favicon.png"> -->
+    <link rel="shortcut icon" href="./images/iu_logo_favicon.ico" type="image/x-icon">
+    <link rel="icon" type="image/png" href="./images/iu_logo_favicon.png?v=1">
+    <link rel="apple-touch-icon" href="./images/iu_logo_favicon.png?v=1">
+    <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+    <div class="form-container">
+        <div class="nav-buttons">
+            <a href="index.html" class="button button--nav">Home</a>
+            <a href="midterm.html" class="button button--nav button--active">Midterm</a>
+            <a href="final.html" class="button button--nav">Final</a>
+            <a href="all.html" class="button button--nav">All</a>
+        </div>
+        <div class="quiz-header">
+            <h1 class="quiz-header__title">Midterm Quiz</h1>
+            <p class="quiz-header__description">
+                Test your knowledge with this midterm quiz. After submission, you'll see your results with correct and incorrect answers highlighted.
+                <br>
+                This is a work from Ha Minh Tri - ITCSIU22194.
+            </p>
+            <hr>
+            <div class="pdf-container">
+                <div class="pdf-title">Midterm Preparation Materials</div>
+                <p class="quiz-header__description">
+                    Here are some questions from the previous midterm exam. Thanks to Do Hung Viet - ITCSIU22197.
+                </p>
+                <div class="pdf-viewer-container">
+                    <iframe class="pdf-embed" src="./sources/ITCSIU22197_DoHungViet_Entrepreneurship_MidtermExam_01.pdf" title="Midterm Exam Part 1" loading="lazy"></iframe>
+                    <div class="pdf-alternatives">
+                        <a href="./sources/ITCSIU22197_DoHungViet_Entrepreneurship_MidtermExam_01.pdf" class="button button--pdf" target="_blank">Open in New Tab</a>
+                        <a href="./sources/ITCSIU22197_DoHungViet_Entrepreneurship_MidtermExam_01.pdf" class="button button--pdf" download>Download PDF</a>
+                    </div>
+                </div>
+                <hr>
+                <div class="pdf-viewer-container">
+                    <iframe class="pdf-embed" src="./sources/ITCSIU22197_DoHungViet_Entrepreneurship_MidtermExam_02.pdf" title="Midterm Exam Part 2" loading="lazy"></iframe>
+                    <div class="pdf-alternatives">
+                        <a href="./sources/ITCSIU22197_DoHungViet_Entrepreneurship_MidtermExam_02.pdf" class="button button--pdf" target="_blank">Open in New Tab</a>
+                        <a href="./sources/ITCSIU22197_DoHungViet_Entrepreneurship_MidtermExam_02.pdf" class="button button--pdf" download>Download PDF</a>
+                    </div>
+                </div>
+            </div>
+            <div class="quiz-score-display" id="quizScoreDisplay">Quiz Results: <span id="scoreValue">0</span> out of <span id="totalQuestions">0</span> correct</div>
+        </div>
+        <div class="loading" id="loadingIndicator">Loading questions...</div>
+        <div class="error-message" id="errorMessage" style="display: none;"></div>
+        <form id="quizForm" style="display: none;"></form>
+        <div class="form-actions" id="formActions" style="display: none;">
+            <button type="button" class="button button--reset" id="resetBtn">Clear Form</button>
+            <button type="submit" class="button button--submit" id="submitBtn">Submit</button>
+        </div>
+    </div>
+    <footer class="footer">
+        <p>Created by Ha Minh Tri - ITCSIU22194</p>
+    </footer>
+    <script src="./js/quiz.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => loadQuizData('midterm'));
+    </script>
+</body>
+</html>
