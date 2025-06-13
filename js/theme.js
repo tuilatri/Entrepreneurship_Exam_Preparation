@@ -1,12 +1,17 @@
 document.addEventListener('DOMContentLoaded', () => {
     const themeToggle = document.getElementById('themeToggle');
     const body = document.body;
-    
-    // Check for saved theme preference
-    const savedTheme = localStorage.getItem('theme');
-    if (savedTheme) {
-        body.classList.toggle('dark-mode', savedTheme === 'dark');
+    const floatingButtons = document.querySelector('.floating-buttons');
+
+    if (!themeToggle || !floatingButtons) {
+        console.error('Required elements not found');
+        return;
     }
+
+    // Check for saved theme preference
+    const savedTheme = localStorage.getItem('theme') || 'light';
+    body.classList.toggle('dark-mode', savedTheme === 'dark');
+    themeToggle.textContent = savedTheme === 'dark' ? 'Toggle Light Mode' : 'Toggle Dark Mode';
 
     // Toggle theme
     themeToggle.addEventListener('click', () => {
@@ -19,34 +24,37 @@ document.addEventListener('DOMContentLoaded', () => {
     // Scroll buttons functionality
     const scrollTopBtn = document.getElementById('scrollTopBtn');
     const scrollBottomBtn = document.getElementById('scrollBottomBtn');
-    const floatingButtons = document.querySelector('.floating-buttons');
-    
     let lastScrollTop = 0;
     let scrollTimeout;
 
     window.addEventListener('scroll', () => {
+        console.log('Scroll detected');
         clearTimeout(scrollTimeout);
-        
-        // Show buttons after scrolling
         floatingButtons.classList.add('show');
-        
-        // Hide buttons after 2 seconds of no scrolling
         scrollTimeout = setTimeout(() => {
             floatingButtons.classList.remove('show');
         }, 2000);
     });
 
     scrollTopBtn.addEventListener('click', () => {
-        window.scrollTo({
-            top: 0,
-            behavior: 'smooth'
-        });
+        if ('scrollBehavior' in document.documentElement.style) {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        } else {
+            window.scrollTo(0, 0);
+        }
     });
 
     scrollBottomBtn.addEventListener('click', () => {
-        window.scrollTo({
-            top: document.body.scrollHeight,
-            behavior: 'smooth'
-        });
+        if ('scrollBehavior' in document.documentElement.style) {
+            window.scrollTo({
+                top: document.body.scrollHeight,
+                behavior: 'smooth'
+            });
+        } else {
+            window.scrollTo(0, document.body.scrollHeight);
+        }
     });
 });
