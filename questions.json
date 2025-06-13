@@ -1167,7 +1167,7 @@
             "Estimate sales",
             "Tests the viability of an idea"
         ],
-        "correctAnswer": "Tests the viability of an idea"
+        "correctAnswer": [ "Tests the viability of an idea", "To understand if there are any barriers to success" ]
     },
     {
         "question": "3.11.11. Which of the following is not the purpose of Feasibility Study?",
@@ -1187,7 +1187,7 @@
             "Business analysis",
             "Management plan"
         ],
-        "correctAnswer": "Executive summary"
+        "correctAnswer": [ "Executive summary", "Marketing plan"]
     },
     {
         "question": "3.11.13. Which one of the following is not an example of a content of a business plan",
@@ -1207,7 +1207,7 @@
             "The key characteristics of buyers in each business segment.",
             "All above"
         ],
-        "correctAnswer": "All above"
+        "correctAnswer": [ "The size of each market segment.", "The key characteristics of buyers in each business segment."]
     },
     {
         "question": "3.11.15. ____ describes the industry, product, strategic direction.",
@@ -1245,7 +1245,7 @@
             "true",
             "false"
         ],
-        "correctAnswer": "true"
+        "correctAnswer": "false"
     },
     {
         "question": "3.12.1. Product improvement could include all of the following EXCEPT",

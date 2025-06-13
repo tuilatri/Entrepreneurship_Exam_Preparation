@@ -100,6 +100,10 @@ async function loadQuizData(quizType) {
             const questionText = document.createElement('div');
             questionText.className = 'question__text';
             questionText.textContent = `${displayIndex + 1}. ${questionData.question}`;
+            // Add hint for multiple choice questions
+            if (Array.isArray(questionData.correctAnswer)) {
+                questionText.textContent += ' (Select all that apply)';
+            }
             
             questionElement.appendChild(questionText);
             
@@ -181,7 +185,7 @@ async function loadQuizData(quizType) {
             questionElement.classList.remove('question--correct', 'question--incorrect');
             
             const isMultipleChoice = Array.isArray(questionData.correctAnswer);
-            const correctAnswers = isMultipleChoice 
+            let correctAnswers = isMultipleChoice 
                 ? questionData.correctAnswer 
                 : [questionData.correctAnswer];
             
@@ -190,13 +194,17 @@ async function loadQuizData(quizType) {
                 let isCorrect;
                 
                 if (isMultipleChoice) {
+                    // For multiple choice, check if selected answers exactly match correct answers
                     const allCorrectSelected = correctAnswers.every(ans => 
                         selectedValues.includes(ans));
                     const noIncorrectSelected = selectedValues.every(val => 
                         correctAnswers.includes(val));
-                    isCorrect = allCorrectSelected && noIncorrectSelected;
+                    isCorrect = allCorrectSelected && noIncorrectSelected && 
+                        selectedValues.length === correctAnswers.length;
                 } else {
-                    isCorrect = selectedValues[0] === questionData.correctAnswer;
+                    // For single choice, check if the single selected answer is correct
+                    isCorrect = selectedValues.length === 1 && 
+                        selectedValues[0] === questionData.correctAnswer;
                 }
                 
                 if (isCorrect) {
