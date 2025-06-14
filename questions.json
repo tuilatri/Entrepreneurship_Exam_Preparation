@@ -1187,7 +1187,7 @@
             "Business analysis",
             "Management plan"
         ],
-        "correctAnswer": [ "Executive summary", "Marketing plan"]
+        "correctAnswer": [ "Executive summary", "Marketing plan", "Management plan"]
     },
     {
         "question": "3.11.13. Which one of the following is not an example of a content of a business plan",
@@ -1386,5 +1386,311 @@
             "Strategic alliances involve acquiring a majority stake in the other company"
         ],
         "correctAnswer": "Strategic alliances do not create a new entity, and both companies remain independent"
+    },
+        {
+        "question": "4.6.1.1. What is a significant benefit of observing social dialogue for entrepreneurs?",
+        "options": [
+            "It leads to immediate profit",
+            "It provides insights into customer needs and market gaps",
+            "It ensures a high rate of business failure",
+            "It eliminates the need for further market research"
+        ],
+        "correctAnswer": "It provides insights into customer needs and market gaps"
+    },
+    {
+        "question": "4.6.1.2. Which of the following is a common characteristic of successful entrepreneurs?",
+        "options": [
+            "Avoiding challenges",
+            "Lack of vision",
+            "Dependence on others",
+            "Strong leadership skills"
+        ],
+        "correctAnswer": "Strong leadership skills"
+    },
+    {
+        "question": "4.6.1.3. A home-based tutor realises that there is a lack of affordable online tutoring services for students in rural areas. They then create a business plan to launch an online platform. This scenario is best described as?",
+        "options": [
+            "Idea",
+            "Opportunity",
+            "Both",
+            "Neither"
+        ],
+        "correctAnswer": "Opportunity"
+    },
+    {
+        "question": "4.6.1.4. Process innovations can be classified into two categories. What are they?",
+        "options": [
+            "Internal and external innovations",
+            "Product and service innovations",
+            "Market-pull and Technology-push innovations",
+            "Incremental and radical innovations"
+        ],
+        "correctAnswer": "Incremental and radical innovations"
+    },
+    {
+        "question": "4.6.1.5. A Technology Entrepreneur is most likely to focus on:",
+        "options": [
+            "Closing sales deals",
+            "Achieving personal goals",
+            "Developing new software or hardware",
+            "Managing business operations"
+        ],
+        "correctAnswer": "Developing new software or hardware"
+    },
+    {
+        "question": "4.6.1.6. Which of the following best describes the 'Harvest' stage?",
+        "options": [
+            "Launching a new product",
+            "Collecting returns on investment",
+            "Developing a business model",
+            "Gathering resources"
+        ],
+        "correctAnswer": "Collecting returns on investment"
+    },
+    {
+        "question": "4.6.1.7. What is one key characteristic that distinguishes an entrepreneur from a small business owner?",
+        "options": [
+            "An entrepreneur acts on an existing business model",
+            "An entrepreneur identifies and acts on a new idea or problem",
+            "An entrepreneur primarily owns a restaurant",
+            "An entrepreneur follows a traditional business model"
+        ],
+        "correctAnswer": "An entrepreneur identifies and acts on a new idea or problem"
+    },
+    {
+        "question": "4.6.1.8. What should be considered when assessing a problem for a startup idea?",
+        "options": [
+            "The problem's frequency and impact",
+            "The problem's profitability",
+            "The problem's uniqueness",
+            "The problem's legal implications"
+        ],
+        "correctAnswer": "The problem's frequency and impact"
+    },
+    {
+        "question": "4.6.1.9. What is the primary goal of entrepreneurship?",
+        "options": [
+            "To work for someone else",
+            "To create value and generate profit",
+            "To avoid risks",
+            "To follow established business practices"
+        ],
+        "correctAnswer": "To create value and generate profit"
+    },
+    {
+        "question": "4.6.1.10. What is the purpose of market research?",
+        "options": [
+            "To understand target audience and trends",
+            "To hire employees",
+            "To create a product",
+            "To reduce costs"
+        ],
+        "correctAnswer": "To understand target audience and trends"
+    },
+    {
+        "question": "4.6.1.11. What is a major drawback of pursuing patents, trademarks, or copyrights according to the solution assessment?",
+        "options": [
+            "They provide no legal protection",
+            "They are not recognized internationally",
+            "They take a long time and can be extremely expensive",
+            "They are only useful for large corporations"
+        ],
+        "correctAnswer": "They take a long time and can be extremely expensive"
+    },
+    {
+        "question": "4.6.1.12. What is essential for an entrepreneur when facing challenges?",
+        "options": [
+            "Expecting easy solutions for complex problems",
+            "Avoiding tough issues to maintain productivity",
+            "Having a willingness to work hard and not expect easy solutions",
+            "Relying solely on intuition over skill development"
+        ],
+        "correctAnswer": "Having a willingness to work hard and not expect easy solutions"
+    },
+    {
+        "question": "4.6.1.13. Why is it essential to differentiate between an idea and an opportunity in entrepreneurship?",
+        "options": [
+            "To ensure that only the best coding practices are followed",
+            "To prevent wasting time and resources on non-viable prospects",
+            "To ensure every idea receives immediate funding",
+            "To maintain a fixed leadership structure in a startup"
+        ],
+        "correctAnswer": "To prevent wasting time and resources on non-viable prospects"
+    },
+    {
+        "question": "4.6.1.14. Which of the following behaviors can hinder someone from becoming a successful entrepreneur?",
+        "options": [
+            "Embracing failures as learning opportunities",
+            "Procrastinating tasks",
+            "Persisting despite initial failures",
+            "Working hard over many years"
+        ],
+        "correctAnswer": "Procrastinating tasks"
+    },
+    {
+        "question": "4.6.1.15. What is one approach that startup entrepreneurs use to minimize personal financial risk while developing their venture?",
+        "options": [
+            "Secure a large loan from a bank to fully fund the venture from the start",
+            "Rely solely on investments from friends and family to fund the venture",
+            "Quit their current employment to focus exclusively on the new venture",
+            "Continue their current employment while working on the venture on the side until it generates income"
+        ],
+        "correctAnswer": "Continue their current employment while working on the venture on the side until it generates income"
+    },
+    {
+        "question": "4.6.1.16. Which of the following is a common risk faced by entrepreneurs?",
+        "options": [
+            "High employee retention",
+            "Lack of customers",
+            "Guaranteed success",
+            "Market competition"
+        ],
+        "correctAnswer": "Lack of customers"
+    },
+    {
+        "question": "4.6.1.17. When assessing a business problem, which factor indicates a stronger market need?",
+        "options": [
+            "The problem occurs infrequently",
+            "Few people are impacted by it",
+            "The problem triggers usage at least once a day",
+            "The problem has minimal impact on consumers"
+        ],
+        "correctAnswer": "The problem triggers usage at least once a day"
+    },
+    {
+        "question": "4.6.1.18. An entrepreneur thinks of creating a wearable device that can measure stress levels through skin sensors but has not yet researched market demand or feasibility. This concept is an example of?",
+        "options": [
+            "Idea",
+            "Opportunity",
+            "Both",
+            "Neither"
+        ],
+        "correctAnswer": "Idea"
+    },
+    {
+        "question": "4.6.1.19. Which of the following strategies involves improving on existing competition?",
+        "options": [
+            "Ignoring competitors",
+            "Copying competition & improving",
+            "Starting in a dying industry",
+            "Avoiding market research"
+        ],
+        "correctAnswer": "Copying competition & improving"
+    },
+    {
+        "question": "4.6.1.20. What is an advantage of being an independent contractor?",
+        "options": [
+            "Long-term job security",
+            "No need to pay your own taxes",
+            "Flexibility in accepting contracts",
+            "Access to employee benefits"
+        ],
+        "correctAnswer": "Flexibility in accepting contracts"
+    },
+    {
+        "question": "4.6.1.21. What defines an entrepreneurial idea?",
+        "options": [
+            "A problem in the market that is currently unmet",
+            "A commercial framework for implementing a solution",
+            "A potential solution or concept that an entrepreneur thinks of",
+            "A planned scheme for securing funding"
+        ],
+        "correctAnswer": "A potential solution or concept that an entrepreneur thinks of"
+    },
+    {
+        "question": "4.6.1.22. What is one way to identify a startup idea?",
+        "options": [
+            "Focus on existing solutions",
+            "Avoid asking questions",
+            "Copy without improvement",
+            "Spot inefficiencies"
+        ],
+        "correctAnswer": "Spot inefficiencies"
+    },
+    {
+        "question": "4.6.1.23. What is a 'soft launch'?",
+        "options": [
+            "A full-scale market entry",
+            "A limited market entry to test the business",
+            "The final stage before exiting the venture",
+            "The development of a business model"
+        ],
+        "correctAnswer": "A limited market entry to test the business"
+    },
+    {
+        "question": "4.6.1.24. What primarily motivates an Achievement Entrepreneur?",
+        "options": [
+            "Customer satisfaction",
+            "Market demand",
+            "Personal and professional fulfillment",
+            "Technological innovation"
+        ],
+        "correctAnswer": "Personal and professional fulfillment"
+    },
+    {
+        "question": "4.6.1.25. What is a common reason many entrepreneurs give up or fail?",
+        "options": [
+            "Creativity",
+            "Satisfied with initial success",
+            "Too much acknowledgment",
+            "Lack of funds"
+        ],
+        "correctAnswer": "Lack of funds"
+    },
+    {
+        "question": "4.6.1.26. Which of the following is NOT a benefit of having a mentor?",
+        "options": [
+            "Learning from experiences not shared in books",
+            "Developing stronger emotional intelligence (EQ)",
+            "Immediate financial investment",
+            "Receiving encouragement and reassurance"
+        ],
+        "correctAnswer": "Immediate financial investment"
+    },
+    {
+        "question": "4.6.2.2. Read the following scenario and answer its questions",
+        "scenario": "GreenWave Innovations, a startup founded by sisters Linh and Mai, has developed an eco-friendly water filtration system called 'PureFlow.' The system uses advanced nanotechnology to purify water, making it safe for drinking while minimizing environmental impact. Operating for 18 months, GreenWave is planning to scale operations, enter new markets in Southeast Asia, and secure partnerships with NGOs for rural deployment. The company has 12 employees and faces challenges in supply chain management, regulatory compliance, and building brand trust in competitive markets.",
+        "subQuestions": [
+            {
+                "subQuestion": "4.6.2.2.1. Which of the following is the best example of a SMART goal for GreenWave's market expansion?",
+                "options": [
+                    "Expand PureFlow sales globally as soon as possible",
+                    "Achieve a 10% market share in two Southeast Asian countries within 24 months",
+                    "Become the top water filtration brand in Asia",
+                    "Increase production capacity significantly"
+                ],
+                "correctAnswer": "Achieve a 10% market share in two Southeast Asian countries within 24 months"
+            },
+            {
+                "subQuestion": "4.6.2.2.2. What is the most critical supply chain challenge GreenWave should address for scaling operations?",
+                "options": [
+                    "Fluctuating raw material costs",
+                    "High employee turnover",
+                    "Marketing budget constraints",
+                    "Customer service response times"
+                ],
+                "correctAnswer": "Fluctuating raw material costs"
+            },
+            {
+                "subQuestion": "4.6.2.2.3. In the Define stage of design thinking, what should GreenWave prioritize to refine PureFlow's product design?",
+                "options": [
+                    "Conducting a competitor pricing analysis",
+                    "Creating a detailed problem statement based on user needs",
+                    "Launching a social media campaign",
+                    "Hiring additional engineers"
+                ],
+                "correctAnswer": "Creating a detailed problem statement based on user needs"
+            },
+            {
+                "subQuestion": "4.6.2.2.4. To build brand trust during the Ideate stage of design thinking, which approach should GreenWave take?",
+                "options": [
+                    "Developing a new logo and branding materials",
+                    "Partnering with local communities to co-create marketing campaigns",
+                    "Increasing production speed",
+                    "Reducing product prices"
+                ],
+                "correctAnswer": "Partnering with local communities to co-create marketing campaigns"
+            }
+        ]
     }
 ]

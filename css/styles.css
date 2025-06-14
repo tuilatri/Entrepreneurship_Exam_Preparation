@@ -514,3 +514,23 @@ body.dark-mode .footer {
         color: #e8eaed;
     }
 }
+
+.scenario__text {
+    font-size: 15px;
+    color: #202124;
+    margin-bottom: 20px;
+    line-height: 1.5;
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 4px;
+}
+
+body.dark-mode .scenario__text {
+    color: #e8eaed;
+    background-color: #2a2b2e;
+}
+
+.subquestion {
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
